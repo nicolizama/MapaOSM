@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_d7f538028c77d575d52d269277e7b0117dbf6455/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_99359e43e862e489188c4e49a6d9d21932f36084/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_6cd8f400f8327b629bf90563d3217f3b2493ce64/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_50dfcbbac35d29a63c3a7f8a5c088283ed508fb0/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_5582a6a7a78550344a967b8868eaad6098e92041/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_e3bb0a1ad375439d570bb53a9e922e5779f20875/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a01a95e82cbfdb92fa0389964b219ec2fefccb19/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_3a7e806c5f89110696377f77f6086d783497865b/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_41ff64152a5c3d553b6a950cf745e38f7252069a/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_7c44c0e12ebf18d7ca264eb2cd21463c243f29db/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_fa1c7a3fe6c5d05c34b9e52a37cec99f76d92729/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_881bbcdafbba0775ae4ca75d1628bffa8c27968d/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a8bbd365ad0844126f3c3714700fbd888b36cfda">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.osmdroid-osmdroid-android-5.1_4a206870096276963ae526846e151818c7dd517e/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_ec5479087f929e476573fd6d3444c001ad2c7024/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_68edeb6a0163ac4e7dd3ba884da665102351ab79/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_d49a35cb2e4dab8be66182dc085b1ef10e1e5fdc/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e93b6269de2a06737415b9816994241a8c411934/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="1eda8d644fb501deceee5fc28807cec4064090a6">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b5a1288abc2c2100130b6dd5d684555419f7d4a9/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="502365edbdcf8bf54f76494d830795a0112dcfc0">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2f03f1d8a7411e1892585f901d4c71a6529ef3d0/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_690786217d9d705f58c062b054820f72faa3d962/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_872c3f188b5b89ff17aeac3207900e9183097f2c/classes.dex" />
+    </item>
+    <item
+        jar="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/acenturion/AndroidStudioProjects/MapaOSM/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0339ec86c6d4fb1cee5e86994e5d343d999c1edb/classes.dex" />
+    </item>
+
+</items>
